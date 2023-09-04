@@ -1,7 +1,5 @@
-# simple_counter
-Simple Counter made with React
+# Simple Counter
 
-To test the program, copy it and in working directory run:
+## Starting the program:
+To start the program, use:
 npm run start
-or for development purposes:
-npm run dev
